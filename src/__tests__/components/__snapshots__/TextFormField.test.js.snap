@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TextFormField /> matches snapshot 1`] = `
+<div
+  className="sc-AxjAm iPShpD"
+>
+  <div
+    className="sc-AxirZ bqmkbb"
+  >
+    some header text
+    <span
+      className="sc-AxhUy enGJvm"
+    >
+      *
+    </span>
+  </div>
+  <div
+    className="sc-AxirZ bqmkbb"
+  >
+    <input
+      className="sc-AxiKw jgecmR"
+      id="fieldId"
+      onChange={[Function]}
+      type="text"
+      value="some text"
+    />
+  </div>
+  <div
+    className="sc-AxirZ bqmkbb"
+  >
+    <span
+      className="sc-AxhCb jNwDnw"
+    >
+      
+    </span>
+  </div>
+</div>
+`;

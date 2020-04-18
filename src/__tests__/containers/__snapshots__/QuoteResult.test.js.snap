@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> matches snapshot 1`] = `
+<div
+  className="sc-AxirZ hqQzZQ"
+>
+  <h1
+    className="sc-AxiKw kmAhWr"
+  >
+    OFX Customer Rate
+  </h1>
+  <div
+    className="sc-AxhUy eqSEOB"
+    id="rate"
+  />
+  <div
+    className="sc-AxgMl igjTzG"
+  >
+    <h1
+      className="sc-AxhCb jWLGde"
+    >
+      From
+    </h1>
+    <span
+      className="sc-AxheI kQEMLG"
+    >
+      AUD
+    </span>
+    <span
+      className="sc-Axmtr jfobaw"
+      id="fromAmount"
+    >
+      100.00
+    </span>
+  </div>
+  <div
+    className="sc-AxgMl igjTzG"
+  >
+    <h1
+      className="sc-AxhCb jWLGde"
+    >
+      To
+    </h1>
+    <span
+      className="sc-AxheI kQEMLG"
+    >
+      USD
+    </span>
+    <span
+      className="sc-Axmtr jfobaw"
+      id="toAmount"
+    >
+      NaN
+    </span>
+  </div>
+  <div
+    className="sc-AxmLO kQhVGH"
+  >
+    <button
+      className="sc-AxjAm bJArkW"
+      onClick={[Function]}
+    >
+      START NEW QUOTE
+    </button>
+  </div>
+</div>
+`;

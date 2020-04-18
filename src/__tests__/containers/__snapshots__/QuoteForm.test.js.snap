@@ -1,0 +1,385 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> matches snapshot 1`] = `
+<div
+  className="sc-fzqBZW IpDVS"
+>
+  <form>
+    <div
+      className="sc-fzqNJr czDRjm"
+    >
+      <div
+        className="sc-fzoyAV fTvrOA"
+      >
+        <div
+          className="sc-AxjAm iPShpD"
+        >
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            First Name
+            <span
+              className="sc-AxhUy enGJvm"
+            >
+              *
+            </span>
+          </div>
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            <input
+              className="sc-AxiKw jgecmR"
+              id="firstName"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            <span
+              className="sc-AxhCb jNwDnw"
+            >
+              
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-fzoyAV ctfxxU"
+      >
+        <div
+          className="sc-AxjAm iPShpD"
+        >
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            Last Name
+            <span
+              className="sc-AxhUy enGJvm"
+            >
+              *
+            </span>
+          </div>
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            <input
+              className="sc-AxiKw jgecmR"
+              id="lastName"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            <span
+              className="sc-AxhCb jNwDnw"
+            >
+              
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-fzqNJr czDRjm"
+    >
+      <div
+        className="sc-fzoyAV bswOFA"
+      >
+        <div
+          className="sc-AxjAm iPShpD"
+        >
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            Email
+          </div>
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            <input
+              className="sc-AxiKw jgecmR"
+              id="email"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            <span
+              className="sc-AxhCb jNwDnw"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-fzqNJr czDRjm"
+    >
+      <div
+        className="sc-fzoyAV bswOFA"
+      >
+        <div
+          className="sc-fzoLsD iAaohI"
+        >
+          <div
+            className="sc-fzpans cqeKxx"
+          >
+            Telephone / Mobile
+          </div>
+          <div
+            className="sc-fzpans cqeKxx"
+          >
+            <div
+              className="sc-fzplWN gFyNBt"
+            >
+              <div
+                className="sc-AxgMl bKFcdD"
+              >
+                <div
+                  className="sc-AxheI cmsLbY"
+                />
+                <div
+                  className="sc-AxheI cmsLbY"
+                >
+                  <select
+                    className="sc-Axmtr duYEwY"
+                    id="contact_dropDown"
+                    onChange={[Function]}
+                    value=""
+                  >
+                    <option
+                      value=""
+                    >
+                      Select...
+                    </option>
+                    <option
+                      value="+61"
+                    >
+                      +61
+                    </option>
+                  </select>
+                </div>
+                <div
+                  className="sc-AxheI cmsLbY"
+                >
+                  <span
+                    className="sc-AxmLO yHMjz"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              className="sc-fznyAO eqTdrq"
+            >
+              <div
+                className="sc-AxjAm iPShpD"
+              >
+                <div
+                  className="sc-AxirZ bqmkbb"
+                />
+                <div
+                  className="sc-AxirZ bqmkbb"
+                >
+                  <input
+                    className="sc-AxiKw jgecmR"
+                    id="contact_text"
+                    onChange={[Function]}
+                    type="text"
+                    value=""
+                  />
+                </div>
+                <div
+                  className="sc-AxirZ bqmkbb"
+                >
+                  <span
+                    className="sc-AxhCb jNwDnw"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="sc-fzpans cqeKxx"
+          >
+            <span
+              className="sc-fznKkj WVcGc"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-fzqNJr czDRjm"
+    >
+      <div
+        className="sc-fzoyAV fTvrOA"
+      >
+        <div
+          className="sc-AxgMl bKFcdD"
+        >
+          <div
+            className="sc-AxheI cmsLbY"
+          >
+            From Currency
+            <span
+              className="sc-fzozJi krkzdl"
+            >
+              *
+            </span>
+          </div>
+          <div
+            className="sc-AxheI cmsLbY"
+          >
+            <select
+              className="sc-Axmtr kVVFsY"
+              id="fromCurrency"
+              onChange={[Function]}
+            >
+              <option
+                value=""
+              >
+                Select...
+              </option>
+              <option
+                value="AUD"
+              >
+                Australian Dollar(AUD)
+              </option>
+              <option
+                value="USD"
+              >
+                US Dollar(USD)
+              </option>
+            </select>
+          </div>
+          <div
+            className="sc-AxheI cmsLbY"
+          >
+            <span
+              className="sc-AxmLO yHMjz"
+            >
+              
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-fzoyAV ctfxxU"
+      >
+        <div
+          className="sc-AxgMl bKFcdD"
+        >
+          <div
+            className="sc-AxheI cmsLbY"
+          >
+            To Currency
+            <span
+              className="sc-fzozJi krkzdl"
+            >
+              *
+            </span>
+          </div>
+          <div
+            className="sc-AxheI cmsLbY"
+          >
+            <select
+              className="sc-Axmtr kVVFsY"
+              id="toCurrency"
+              onChange={[Function]}
+            >
+              <option
+                value=""
+              >
+                Select...
+              </option>
+              <option
+                value="AUD"
+              >
+                Australian Dollar(AUD)
+              </option>
+              <option
+                value="USD"
+              >
+                US Dollar(USD)
+              </option>
+            </select>
+          </div>
+          <div
+            className="sc-AxheI cmsLbY"
+          >
+            <span
+              className="sc-AxmLO yHMjz"
+            >
+              
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-fzqNJr czDRjm"
+    >
+      <div
+        className="sc-fzoyAV bswOFA"
+      >
+        <div
+          className="sc-AxjAm iPShpD"
+        >
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            Amount
+            <span
+              className="sc-AxhUy enGJvm"
+            >
+              *
+            </span>
+          </div>
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            <input
+              className="sc-AxiKw jgecmR"
+              id="amount"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="sc-AxirZ bqmkbb"
+          >
+            <span
+              className="sc-AxhCb jNwDnw"
+            >
+              
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-fzqNJr czDRjm"
+    >
+      <div
+        className="sc-fzoLag hDfRZy"
+      >
+        <button
+          className="sc-fzokOt fMtEza"
+          onClick={[Function]}
+        >
+          GET QUOTE
+        </button>
+      </div>
+    </div>
+  </form>
+</div>
+`;

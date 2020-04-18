@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DropDownFormField /> matches snapshot 1`] = `
+<div
+  className="sc-AxjAm iPShpD"
+>
+  <div
+    className="sc-AxirZ cpGiat"
+  >
+    some header text
+    <span
+      className="sc-AxhUy enGJvm"
+    >
+      *
+    </span>
+  </div>
+  <div
+    className="sc-AxirZ cpGiat"
+  >
+    <select
+      className="sc-AxiKw lcvSQm"
+      id="ddFieldId"
+      onChange={[Function]}
+      value="USD"
+    >
+      <option
+        value=""
+      >
+        Select...
+      </option>
+      <option
+        value="AUD"
+      >
+        Australian Dollar(AUD)
+      </option>
+      <option
+        value="USD"
+      >
+        US Dollar(USD)
+      </option>
+    </select>
+  </div>
+  <div
+    className="sc-AxirZ cpGiat"
+  >
+    <span
+      className="sc-AxhCb jNwDnw"
+    >
+      
+    </span>
+  </div>
+</div>
+`;
